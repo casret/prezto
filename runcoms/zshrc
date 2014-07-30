@@ -17,3 +17,4 @@ alias rm='nocorrect rm'
 ulimit -c unlimited
 unsetopt SHARE_HISTORY
 setopt CLOBBER
+setopt DVORAK

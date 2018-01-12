@@ -18,3 +18,4 @@ ulimit -c unlimited
 unsetopt SHARE_HISTORY
 setopt CLOBBER
 setopt DVORAK
+eval "$(pyenv init -)"

@@ -39,7 +39,9 @@ zstyle ':prezto:load' pmodule \
   'osx' \
   'syntax-highlighting' \
   'history-substring-search' \
-  'prompt'
+  'prompt' \
+  'autosuggestions' \
+  'python'
 
 #
 # Autosuggestions

@@ -18,4 +18,6 @@ ulimit -c unlimited
 unsetopt SHARE_HISTORY
 setopt CLOBBER
 setopt DVORAK
-eval "$(pyenv init -)"
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+

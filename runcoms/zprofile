@@ -65,3 +65,5 @@ if (( $#commands[(i)lesspipe(|.sh)] )); then
 fi
 
 source ~/.zshenv-local
+
+export PATH="$HOME/.cargo/bin:$PATH"
